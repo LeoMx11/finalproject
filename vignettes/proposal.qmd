@@ -1,0 +1,22 @@
+---
+title: "BST 260 Final Project Proposal"
+format: html
+editor: visual
+---
+
+## Dataset 1: NHANES
+
+Research question: Can we predict whether or not patients will report having trouble sleeping using their available cardiovascular health data, and does that prediction model differ at all between age categories?
+
+The population will be all those present in the NHANES dataset with available data on blood pressure (continuous) and trouble sleeping (self-reported, yes/no coding).
+
+I will adjust for age (I will try this as a continuous variable and categorical), sex, and perhaps other health covariates along the way if they are deemed necessary.
+
+
+## Dataset 2: RAND dataset
+
+Research question: Does the number of active permissive and restrictive gun legislation have an effect on the murders per 100,000 residents of a state?
+
+The population are the states of the RAND dataset, and I will code in the active counts of permissive and restrictive gun legislation as the inputs and the gun murders in each year, perhaps adjusting for overall trends in increases in gun legislation over time.
+
+
